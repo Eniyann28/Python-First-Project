@@ -1,0 +1,16 @@
+a="something"
+print(type(a))
+b=12
+print(type(b))
+c=1.2
+print(type(c))
+d=1+2j
+print(type(d))
+e=[1,2,3]
+print(type(e))
+f={1:"one",2:"two",3:"three"}
+print(type(f))
+g=(1,2,3)
+print(type(g))
+h=True
+print(type(h))
